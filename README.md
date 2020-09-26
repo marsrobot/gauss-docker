@@ -4,7 +4,7 @@
 
 # Introduction
 
-Calculate Guassian sum 1 + 2 + ... + 1000 = 499500 by docker
+Calculate Guassian sum 1 + 2 + ... + 1000 = 500500 by docker
 
 # Run
 Step 1: Fire up service
