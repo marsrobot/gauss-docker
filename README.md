@@ -3,8 +3,9 @@
 - [Run](#Run)
 
 # Introduction
-
-Calculate Guassian sum 1 + 2 + ... + 1000 = 499500 by docker
+Calculate Gaussian sum 
+- 1 + 2 + ... + 1000 = 500500,
+- 1 + 2 + ... + 999  = 499500 by docker
 
 # Run
 Step 1: Fire up service
